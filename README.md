@@ -1,3 +1,12 @@
+## Next.js v13.4 practice
+
+This github repository only serves as practice for learning to develop bigger projects, using technologies such as Next.js, Typescript, Prisma, various React libraries, Auth0, Tailwind CSS (custom HTML elements, custom Tailwind classes and colors), custom UI components, and an extense list of dependencies used in it.
+Disclaimer:
+
+```
+This projext is originally a product of someone else's code and should not be regarded as my own. Also take into consideration that this repository is only meant for personal educational purposes and should not be ever expected to be a fully fledged project
+```
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started

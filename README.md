@@ -4,7 +4,9 @@ This github repository only serves as practice for learning to develop bigger pr
 Disclaimer:
 
 ```
-This projext is originally a product of someone else's code and should not be regarded as my own. Also take into consideration that this repository is only meant for personal educational purposes and should not be ever expected to be a fully fledged project
+This projext is originally a product of someone else's code and should not be regarded as my own.
+Also take into consideration that this repository is only meant for personal educational purposes
+and should not be ever expected to be a fully fledged project
 ```
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
